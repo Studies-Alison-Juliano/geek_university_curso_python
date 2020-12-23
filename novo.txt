@@ -1,0 +1,19 @@
+Escrever dados em arquivo é muito facil.
+Podemos escrever quantas linhas quisermos. 
+Esta é a ultima linha.
+
+Tenta 
+Fodase mano 
+Eu sou um lixo
+
+Tenta 
+Fodase mano 
+Eu sou um lixo 
+
+Tenta 
+Fodase mano 
+Eu sou um lixo 
+
+Tenta 
+Fodase mano 
+Eu sou um lixo 
