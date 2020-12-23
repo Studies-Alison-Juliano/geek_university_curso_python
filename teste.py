@@ -8,6 +8,8 @@ teste = "1"
 
 print(lista.get(teste))
 
+teste_git = "olá"
+
 """if i == len(lst_element) - 1:
     break
 if lst_element.count(e) == 1:
